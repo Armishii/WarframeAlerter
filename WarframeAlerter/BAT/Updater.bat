@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\AutoIt3\aut2exe\aut2exe_x64.exe"  /in "C:\Users\Quentin\Dropbox\Public\WarframeAlerter\Updater.au3" /out "C:\Users\Quentin\Dropbox\Public\WarframeAlerter\Updater.exe" /nopack /comp 2 /x86
